@@ -237,8 +237,6 @@ def IterateInitials(MatList,HighestIndexList,IndexSubsetList,WeightVectors,Mon,b
         return MatList
 
 
-
-
         
 def GreedyMinimize(MM,base):
     n=MM.ncols()
